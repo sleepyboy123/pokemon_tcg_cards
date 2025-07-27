@@ -72,66 +72,6 @@ owned_cards = [
         "purchase_price": 0
     },
     {
-        "set": "pokemon-surging-sparks",
-        "id": "jasmine%27s-gaze-245",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-japanese-terastal-festival",
-        "id": "jolteon-ex-209",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-evolving-skies",
-        "id": "dragonite-v-192",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-japanese-raging-surf",
-        "id": "garchomp-ex-85",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-paradox-rift",
-        "id": "iron-hands-ex-248",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-silver-tempest",
-        "id": "regidrago-v-184",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-fusion-strike",
-        "id": "sandaconda-v-252",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-lost-origin",
-        "id": "orbeetle-vmax-tg13",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-lost-origin",
-        "id": "orbeetle-v-tg12",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
-        "set": "pokemon-silver-tempest",
-        "id": "serena-193",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-    {
         "set": "pokemon-promo",
         "id": "pikachu-&-zekrom-gx-sm248",
         "grade": "Ungraded",
@@ -140,6 +80,24 @@ owned_cards = [
     {
         "set": "pokemon-promo",
         "id": "reshiram-&-charizard-gx-sm247",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-promo",
+        "id": "charizard-vstar-swsh262",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-promo",
+        "id": "charizard-vmax-swsh261",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },  
+    {
+        "set": "pokemon-promo",
+        "id": "charizard-v-swsh260",
         "grade": "Ungraded",
         "purchase_price": 0
     },
@@ -162,12 +120,113 @@ owned_cards = [
         "purchase_price": 0
     },
     {
-        "set": "pokemon-paldea-evolved",
-        "id": "grusha-268",
+        "set": "pokemon-evolving-skies",
+        "id": "dragonite-v-192",
         "grade": "Ungraded",
         "purchase_price": 0
     },
-
+    {
+        "set": "pokemon-fusion-strike",
+        "id": "sandaconda-v-252",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-lost-origin",
+        "id": "orbeetle-v-tg12",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-lost-origin",
+        "id": "orbeetle-vmax-tg13",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-silver-tempest",
+        "id": "regidrago-v-184",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-silver-tempest",
+        "id": "serena-193",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "mew-gg10",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "pikachu-gg30",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "lumineon-v-gg39",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "deoxys-vmax-gg45",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },  
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "zacian-v-gg48",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "darkrai-vstar-gg50",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-crown-zenith",
+        "id": "hoopa-v-gg53",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-vstar-universe",
+        "id": "deoxys-vstar-223",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-vstar-universe",
+        "id": "hisuian-samurott-vstar-230",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-vstar-universe",
+        "id": "regigigas-vstar-233",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-vstar-universe",
+        "id": "origin-forme-dialga-vstar-260",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-vstar-universe",
+        "id": "arceus-vstar-262",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
     {
         "set": "pokemon-scarlet-&-violet",
         "id": "penny-239",
@@ -217,86 +276,68 @@ owned_cards = [
         "purchase_price": 0
     },
     {
-        "set": "pokemon-japanese-vstar-universe",
-        "id": "arceus-vstar-262",
+        "set": "pokemon-paldea-evolved",
+        "id": "grusha-268",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-japanese-vstar-universe",
-        "id": "origin-forme-dialga-vstar-260",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },
-     {
-        "set": "pokemon-japanese-vstar-universe",
-        "id": "regigigas-vstar-233",
+        "set": "pokemon-japanese-scarlet-&-violet-151",
+        "id": "bulbasaur-166",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-crown-zenith",
-        "id": "hoopa-v-gg53",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },    
-    {
-        "set": "pokemon-japanese-vstar-universe",
-        "id": "hisuian-samurott-vstar-230",
+        "set": "pokemon-scarlet-&-violet-151",
+        "id": "ivysaur-167",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-crown-zenith",
-        "id": "darkrai-vstar-gg50",
+        "set": "pokemon-japanese-scarlet-&-violet-151",
+        "id": "charmander-168",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-crown-zenith",
-        "id": "zacian-v-gg48",
+        "set": "pokemon-japanese-scarlet-&-violet-151",
+        "id": "charmeleon-169",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-japanese-vstar-universe",
-        "id": "deoxys-vstar-223",
+        "set": "pokemon-japanese-scarlet-&-violet-151",
+        "id": "squirtle-170",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-crown-zenith",
-        "id": "deoxys-vmax-gg45",
-        "grade": "Ungraded",
-        "purchase_price": 0
-    },  
-    {
-        "set": "pokemon-crown-zenith",
-        "id": "lumineon-v-gg39",
+        "set": "pokemon-japanese-scarlet-&-violet-151",
+        "id": "wartotle-171",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-crown-zenith",
-        "id": "mew-gg10",
+        "set": "pokemon-paradox-rift",
+        "id": "iron-hands-ex-248",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-promo",
-        "id": "charizard-vstar-swsh262",
+        "set": "pokemon-japanese-raging-surf",
+        "id": "groudon-69",
         "grade": "Ungraded",
         "purchase_price": 0
     },
     {
-        "set": "pokemon-promo",
-        "id": "charizard-vmax-swsh261",
+        "set": "pokemon-japanese-raging-surf",
+        "id": "garchomp-ex-85",
         "grade": "Ungraded",
         "purchase_price": 0
-    },  
+    },
     {
-        "set": "pokemon-promo",
-        "id": "charizard-v-swsh260",
+        "set": "pokemon-surging-sparks",
+        "id": "jasmine%27s-gaze-245",
         "grade": "Ungraded",
         "purchase_price": 0
     },
@@ -312,4 +353,10 @@ owned_cards = [
         "grade": "Ungraded",
         "purchase_price": 0
     },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "jolteon-ex-209",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    }
 ]
