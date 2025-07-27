@@ -24,12 +24,6 @@ owned_cards = [
         "purchase_price": 0
     },
     {
-        "set": "pokemon-japanese-night-wanderer",
-        "id": "cassiopeia-91",
-        "grade": "Grade 9",
-        "purchase_price": 0
-    },
-    {
         "set": "pokemon-japanese-crimson-haze",
         "id": "bloodmoon-ursaluna-ex-91",
         "grade": "PSA 10",
@@ -69,6 +63,12 @@ owned_cards = [
         "set": "pokemon-crown-zenith",
         "id": "hisuian-zoroark-vstar-gg56",
         "grade": "PSA 10",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-night-wanderer",
+        "id": "cassiopeia-91",
+        "grade": "Grade 9",
         "purchase_price": 0
     },
     {
@@ -313,7 +313,7 @@ owned_cards = [
     },
     {
         "set": "pokemon-japanese-scarlet-&-violet-151",
-        "id": "wartotle-171",
+        "id": "wartortle-171",
         "grade": "Ungraded",
         "purchase_price": 0
     },

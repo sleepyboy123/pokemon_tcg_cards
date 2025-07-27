@@ -28,4 +28,4 @@ for index, card in enumerate(owned_cards, start=1):
     print("{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format(index, card["set"], card["id"], card["grade"], card["purchase_price"], current_price))
 
 print("-" * 135)  
-print(round(total_value, 2))
+print("$" + str(round(total_value, 2)))
