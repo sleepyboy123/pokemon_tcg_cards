@@ -120,6 +120,24 @@ owned_cards = [
         "purchase_price": 0
     },
     {
+        "set": "pokemon-brilliant-stars",
+        "id": "flareon-tg01",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-brilliant-stars",
+        "id": "vaporeon-tg02",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-brilliant-stars",
+        "id": "jolteon-tg04",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
         "set": "pokemon-evolving-skies",
         "id": "dragonite-v-192",
         "grade": "Ungraded",
