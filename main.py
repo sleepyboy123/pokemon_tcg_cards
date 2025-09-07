@@ -23,7 +23,7 @@ total_value = 0
 for index, card in enumerate(owned_cards, start=1):
     url = f"https://www.pricecharting.com/game/{card['set']}/{card['id']}"
     response = requests.get(url)
-    current_price = extract_price_by_label(response.text, card["grade"])
+    current_price = extract_price_by_label(response.text, card["grade"]).replace(",","")
     total_value += float(current_price[1:])
     print("{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format(index, card["set"], card["id"], card["grade"], card["purchase_price"], current_price))
 
