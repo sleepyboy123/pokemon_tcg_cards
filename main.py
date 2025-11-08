@@ -1,3 +1,4 @@
+import cloudscraper
 import requests
 
 from bs4 import BeautifulSoup
@@ -5,27 +6,43 @@ from cards import owned_cards
 
 def extract_price_by_label(html, label):
     soup = BeautifulSoup(html, 'html.parser')
-    
+
     # Find the <td> with the specific label
     label_td = soup.find('td', string=label)
-    
+
     if label_td:
         # Get the next <td> sibling (the price)
         price_td = label_td.find_next_sibling('td')
         if price_td:
             return price_td.text.strip()
 
-print("{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format("No", "Pokemon Set", "Pokemon ID", "Grade", "Purchase Price", "Current Price"))
-print("-" * 135)  
+scraper = cloudscraper.create_scraper()
 
-total_value = 0
+with open("cards_report.txt", "w", encoding="utf-8") as file:
+    header = "{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format("No", "Pokemon Set", "Pokemon ID", "Grade", "Purchase Price", "Current Price")
+    print(header) 
+    file.write(header + "\n")
 
-for index, card in enumerate(owned_cards, start=1):
-    url = f"https://www.pricecharting.com/game/{card['set']}/{card['id']}"
-    response = requests.get(url)
-    current_price = extract_price_by_label(response.text, card["grade"]).replace(",","")
-    total_value += float(current_price[1:])
-    print("{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format(index, card["set"], card["id"], card["grade"], card["purchase_price"], current_price))
+    separator = "-" * 135
+    print(separator) 
+    file.write(separator + "\n")
 
-print("-" * 135)  
-print("$" + str(round(total_value, 2)))
+    total_value = 0
+
+    for index, card in enumerate(owned_cards, start=1):
+        url = f"https://www.pricecharting.com/game/{card['set']}/{card['id']}"
+        response = scraper.get(url)
+        print(response.status_code)
+        current_price = float(extract_price_by_label(response.text, card["grade"]).replace(",","")) * 1.3
+        total_value += current_price
+        line = "{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format(index, card["set"], card["id"], card["grade"], card["purchase_price"], current_price)
+        print(line)
+        file.write(line + "\n")
+
+    separator = "-" * 135
+    print(separator)
+    file.write(separator + "\n")
+
+    total_line = "$" + str(round(total_value, 2))
+    print(total_line)
+    file.write(total_line + "\n")

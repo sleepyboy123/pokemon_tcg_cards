@@ -1,6 +1,54 @@
 owned_cards = [
     {
         "set": "pokemon-japanese-terastal-festival",
+        "id": "sylveon-ex-212",
+        "grade": "PSA 10",
+        "purchase_price": 230
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "leafeon-ex-200",
+        "grade": "PSA 10",
+        "purchase_price": 150
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "umbreon-ex-217",
+        "grade": "PSA 10",
+        "purchase_price": 600
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "espeon-ex-211",
+        "grade": "PSA 10",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "jolteon-ex-209",
+        "grade": "PSA 10",
+        "purchase_price": 110
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "flareon-ex-202",
+        "grade": "PSA 10",
+        "purchase_price": 110
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "eevee-ex-223",
+        "grade": "PSA 10",
+        "purchase_price": 75
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
+        "id": "eevee-ex-224",
+        "grade": "PSA 10",
+        "purchase_price": 75
+    },
+    {
+        "set": "pokemon-japanese-terastal-festival",
         "id": "vaporeon-ex-205",
         "grade": "PSA 10",
         "purchase_price": 0
@@ -62,6 +110,12 @@ owned_cards = [
     {
         "set": "pokemon-crown-zenith",
         "id": "hisuian-zoroark-vstar-gg56",
+        "grade": "PSA 10",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-korean-promo",
+        "id": "ditto-173sv-p",
         "grade": "PSA 10",
         "purchase_price": 0
     },
