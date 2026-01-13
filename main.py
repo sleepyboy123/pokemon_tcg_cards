@@ -1,7 +1,8 @@
+from bs4 import BeautifulSoup
 import cloudscraper
+from datetime import datetime
 import requests
 
-from bs4 import BeautifulSoup
 from cards import owned_cards
 
 def extract_price_by_label(html, label):
@@ -18,7 +19,9 @@ def extract_price_by_label(html, label):
 
 scraper = cloudscraper.create_scraper()
 
-with open("cards_report.txt", "w", encoding="utf-8") as file:
+date_time = datetime.today().strftime('%Y-%m-%d')
+
+with open(f"cards_report_{date_time}.txt", "w", encoding="utf-8") as file:
     header = "{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format("No", "Pokemon Set", "Pokemon ID", "Grade", "Purchase Price", "Current Price")
     print(header) 
     file.write(header + "\n")
@@ -33,8 +36,11 @@ with open("cards_report.txt", "w", encoding="utf-8") as file:
         url = f"https://www.pricecharting.com/game/{card['set']}/{card['id']}"
         response = scraper.get(url)
         print(response.status_code)
-        current_price = float(extract_price_by_label(response.text, card["grade"]).replace(",","")) * 1.3
-        total_value += current_price
+        try:
+            current_price = float(extract_price_by_label(response.text, card["grade"]).replace(",","")) * 1.3
+            total_value += current_price
+        except AttributeError as e:
+            current_price = url
         line = "{:<5} {:<40} {:<40} {:<10} {:<15} {:<15}".format(index, card["set"], card["id"], card["grade"], card["purchase_price"], current_price)
         print(line)
         file.write(line + "\n")

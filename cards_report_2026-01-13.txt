@@ -1,0 +1,77 @@
+No    Pokemon Set                              Pokemon ID                               Grade      Purchase Price  Current Price  
+---------------------------------------------------------------------------------------------------------------------------------------
+1     pokemon-japanese-terastal-festival       sylveon-ex-212                           PSA 10     230             $170.61
+2     pokemon-japanese-terastal-festival       leafeon-ex-200                           PSA 10     150             $116.46
+3     pokemon-japanese-terastal-festival       umbreon-ex-217                           PSA 10     600             $479.20
+4     pokemon-japanese-terastal-festival       espeon-ex-211                            PSA 10     0               $116.05
+5     pokemon-japanese-terastal-festival       jolteon-ex-209                           PSA 10     110             $93.42
+6     pokemon-japanese-terastal-festival       flareon-ex-202                           PSA 10     110             $95.18
+7     pokemon-japanese-terastal-festival       eevee-ex-223                             PSA 10     75              $74
+8     pokemon-japanese-terastal-festival       eevee-ex-224                             PSA 10     75              $66
+9     pokemon-japanese-terastal-festival       vaporeon-ex-205                          PSA 10     0               $93.94
+10    pokemon-japanese-terastal-festival       glaceon-ex-206                           PSA 10     0               $102.34
+11    pokemon-japanese-vstar-universe          giratina-vstar-261                       PSA 10     0               $215
+12    pokemon-japanese-vstar-universe          origin-forme-palkia-vstar-259            PSA 10     0               $103.76
+13    pokemon-japanese-crimson-haze            bloodmoon-ursaluna-ex-91                 PSA 10     0               $55.57
+14    pokemon-japanese-crimson-haze            tyranitar-v-77                           PSA 10     0               $422.08
+15    pokemon-japanese-shiny-treasure-ex       clive-352                                PSA 10     0               $75
+16    pokemon-japanese-wild-force              walking-wake-ex-94                       PSA 10     0               $66.17
+17    pokemon-japanese-triplet-beat            magikarp-80                              PSA 10     0               $191.75
+18    pokemon-evolving-skies                   noivern-v-196                            PSA 10     0               $205.65
+19    pokemon-crown-zenith                     hisuian-zoroark-vstar-gg56               PSA 10     0               $96.84
+20    pokemon-korean-promo                     ditto-173sv-p                            PSA 10     0               $189.99
+21    pokemon-japanese-promo                   pikachu-20m-p                            PSA 10     0               $76.71
+22    pokemon-japanese-night-wanderer          cassiopeia-91                            Grade 9    0               $18.62
+23    pokemon-promo                            pikachu-&-zekrom-gx-sm248                Ungraded   0               $26
+24    pokemon-promo                            reshiram-&-charizard-gx-sm247            Ungraded   0               $29.99
+25    pokemon-promo                            charizard-vstar-swsh262                  Ungraded   0               $54.80
+26    pokemon-promo                            charizard-vmax-swsh261                   Ungraded   0               $33.04
+27    pokemon-promo                            charizard-v-swsh260                      Ungraded   0               $30
+28    pokemon-promo                            mew-ex-53                                Ungraded   0               $58.50
+29    pokemon-promo                            mewtwo-52                                Ungraded   0               $38.42
+30    pokemon-scarlet-&-violet-151             mew-ex-193                               Ungraded   0               $21.14
+31    pokemon-brilliant-stars                  flareon-tg01                             Ungraded   0               $14.39
+32    pokemon-brilliant-stars                  vaporeon-tg02                            Ungraded   0               $13.08
+33    pokemon-brilliant-stars                  jolteon-tg04                             Ungraded   0               $10.64
+34    pokemon-evolving-skies                   dragonite-v-192                          Ungraded   0               $342.28
+35    pokemon-fusion-strike                    sandaconda-v-252                         Ungraded   0               $5.50
+36    pokemon-lost-origin                      orbeetle-v-tg12                          Ungraded   0               $5.48
+37    pokemon-lost-origin                      orbeetle-vmax-tg13                       Ungraded   0               $8.36
+38    pokemon-silver-tempest                   regidrago-v-184                          Ungraded   0               $19
+39    pokemon-silver-tempest                   serena-193                               Ungraded   0               $12.52
+40    pokemon-crown-zenith                     mew-gg10                                 Ungraded   0               $33
+41    pokemon-crown-zenith                     pikachu-gg30                             Ungraded   0               $19.99
+42    pokemon-crown-zenith                     lumineon-v-gg39                          Ungraded   0               $14.30
+43    pokemon-crown-zenith                     deoxys-vmax-gg45                         Ungraded   0               $41.92
+44    pokemon-crown-zenith                     zacian-v-gg48                            Ungraded   0               $19.99
+45    pokemon-crown-zenith                     darkrai-vstar-gg50                       Ungraded   0               $45
+46    pokemon-crown-zenith                     hoopa-v-gg53                             Ungraded   0               $8.34
+47    pokemon-japanese-vstar-universe          deoxys-vstar-223                         Ungraded   0               $16.49
+48    pokemon-japanese-vstar-universe          hisuian-samurott-vstar-230               Ungraded   0               $8.55
+49    pokemon-japanese-vstar-universe          regigigas-vstar-233                      Ungraded   0               $8.36
+50    pokemon-japanese-vstar-universe          origin-forme-dialga-vstar-260            Ungraded   0               $61.13
+51    pokemon-japanese-vstar-universe          arceus-vstar-262                         Ungraded   0               $89.91
+52    pokemon-scarlet-&-violet                 penny-239                                Ungraded   0               $4.99
+53    pokemon-scarlet-&-violet                 koraidon-ex-247                          Ungraded   0               $16.87
+54    pokemon-scarlet-&-violet                 jacq-250                                 Ungraded   0               $4.99
+55    pokemon-scarlet-&-violet                 miriam-251                               Ungraded   0               $112.19
+56    pokemon-scarlet-&-violet                 penny-252                                Ungraded   0               $7
+57    pokemon-paldea-evolved                   meowscarada-ex-256                       Ungraded   0               $18.98
+58    pokemon-paldea-evolved                   skeledirge-ex-258                        Ungraded   0               $22.80
+59    pokemon-paldea-evolved                   quaquaval-ex-260                         Ungraded   0               $9.99
+60    pokemon-paldea-evolved                   grusha-268                               Ungraded   0               $14.50
+61    pokemon-japanese-scarlet-&-violet-151    bulbasaur-166                            Ungraded   0               $12.75
+62    pokemon-scarlet-&-violet-151             ivysaur-167                              Ungraded   0               $27.30
+63    pokemon-japanese-scarlet-&-violet-151    charmander-168                           Ungraded   0               $16.50
+64    pokemon-japanese-scarlet-&-violet-151    charmeleon-169                           Ungraded   0               $11.68
+65    pokemon-japanese-scarlet-&-violet-151    squirtle-170                             Ungraded   0               $14.99
+66    pokemon-japanese-scarlet-&-violet-151    wartortle-171                            Ungraded   0               $8.42
+67    pokemon-paradox-rift                     iron-hands-ex-248                        Ungraded   0               $12.13
+68    pokemon-japanese-raging-surf             groudon-69                               Ungraded   0               $20.85
+69    pokemon-japanese-raging-surf             garchomp-ex-85                           Ungraded   0               $36.06
+70    pokemon-surging-sparks                   jasmine%27s-gaze-245                     Ungraded   0               $19.39
+71    pokemon-stellar-crown                    bulbasaur-143                            Ungraded   0               $54
+72    pokemon-japanese-terastal-festival       friends-in-paldea-195                    Ungraded   0               $7.63
+73    pokemon-japanese-terastal-festival       jolteon-ex-209                           Ungraded   0               $38.52
+---------------------------------------------------------------------------------------------------------------------------------------
+$0

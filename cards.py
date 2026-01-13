@@ -120,6 +120,12 @@ owned_cards = [
         "purchase_price": 0
     },
     {
+        "set": "pokemon-japanese-promo",
+        "id": "pikachu-20m-p",
+        "grade": "PSA 10",
+        "purchase_price": 0
+    },
+    {
         "set": "pokemon-japanese-night-wanderer",
         "id": "cassiopeia-91",
         "grade": "Grade 9",
