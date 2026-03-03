@@ -126,6 +126,12 @@ owned_cards = [
         "purchase_price": 0
     },
     {
+        "set": "pokemon-phantasmal-flames",
+        "id": "mega-charizard-x-ex-109",
+        "grade": "PSA 10",
+        "purchase_price": 0
+    },
+    {
         "set": "pokemon-japanese-night-wanderer",
         "id": "cassiopeia-91",
         "grade": "Grade 9",
@@ -434,6 +440,12 @@ owned_cards = [
     {
         "set": "pokemon-japanese-terastal-festival",
         "id": "jolteon-ex-209",
+        "grade": "Ungraded",
+        "purchase_price": 0
+    },
+    {
+        "set": "pokemon-promo",
+        "id": "mega-charizard-x-ex-23",
         "grade": "Ungraded",
         "purchase_price": 0
     }
